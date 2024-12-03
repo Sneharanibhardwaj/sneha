@@ -1,1 +1,1 @@
-# sneha
+# MERN-Auth
